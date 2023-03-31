@@ -103,7 +103,6 @@ class UsersExport implements FromCollection, WithStyles, WithColumnWidths
         ['IT','', '', '', '', 'CEO/Director'],
         ['7094448225','','','','','','','']
     
-
     ];
     return collect($data);
 }
