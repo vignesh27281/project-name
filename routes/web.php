@@ -22,7 +22,6 @@ use App\Http\Controllers\InvoiceController;
 // });
 
 Route::get('/quotation', [UserController::class, 'export']);
-
 Route::get('/invoice', [InvoiceController::class, 'export']);
 
 

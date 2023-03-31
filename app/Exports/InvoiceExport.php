@@ -14,7 +14,6 @@ class InvoiceExport implements FromCollection, WithStyles, WithColumnWidths
     public function collection()
 {
     
-
     $data = [        
        
         ['S AND T WELCARE EQUIPMENTS PRIVATE LIMITED','','','','','OUR GST.NO: 33AAJCS4091D1ZH'],

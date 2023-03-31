@@ -105,7 +105,6 @@ class UsersExport implements FromCollection, WithStyles, WithColumnWidths
     
 
     ];
-
     return collect($data);
 }
 
